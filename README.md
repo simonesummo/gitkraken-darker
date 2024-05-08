@@ -8,11 +8,15 @@ This theme comes in two variants, `Dracula` and `Dracula Dimmed`.
 
 ### Dracula
 
-![Screenshot](./screenshot.png)
+![Screenshot](./dracula.png)
 
 ### Dracula Dimmed
 
-![Screenshot](./screenshot-dimmed.png)
+![Screenshot](./dracula-dimmed.png)
+
+### Dracula Darker
+
+![Screenshot](./dracula-darker.png)
 
 ## Install
 
